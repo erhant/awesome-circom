@@ -21,7 +21,7 @@
 - [circom-pairing](https://github.com/yi-sun/circom-pairing) - BLS12-381 curve
 - [zk-attestor](https://github.com/yi-sun/zk-attestor) - Scalable on-chain trustless attestations to data from any past Ethereum block or state (ethereum storage proofs)
 - [keccak256-circom](https://github.com/vocdoni/keccak256-circom) - Keccak256 implementation
-- [zk-kit.circom](https://github.com/privacy-scaling-explorations/zk-kit.circom) - A monorepo of reusable Circom circuits
+- [zk-kit.circom](https://github.com/privacy-ethereum/zk-kit.circom) - A monorepo of reusable Circom circuits
 
 ### Cryptographic primitives in other languages
 > Cryptographic primitives implemented in other languages which are compatible with Circom implementations
