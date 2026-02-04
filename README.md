@@ -75,7 +75,7 @@
 ## Projects using Circom
 - [hermeznetwork/circuits](https://github.com/hermeznetwork/circuits) - Hermez network circuits
 - [iden3/circuits](https://github.com/iden3/circuits/) - Circom circuits used by the iden3 core protocol
-- [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal anti collusion infrastructure
+- [privacy-scaling-explorations/maci](https://github.com/privacy-ethereum/maci) - Minimal anti collusion infrastructure
 - [semaphore-protocol/semaphore](https://github.com/semaphore-protocol/semaphore) - A privacy gadget for creating anonymous proof of membership on Ethereum
 - [tornadocash/tornado-core](https://github.com/tornadocash/tornado-core) - Non-custodial private transactions on Ethereum
 - [worldcoin/semaphore-rs](https://github.com/worldcoin/semaphore-rs) - Rust support library for using Semaphore
